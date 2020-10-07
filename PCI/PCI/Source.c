@@ -10,7 +10,7 @@
 int main() {
 	setlocale(LC_ALL, "Russian");
 
-	const char* INTERFACE_NAME = "PCI";
+	const char* INTERFACE_NAME = "SATA";
 
 	int deviceIndex = 0;
 	
